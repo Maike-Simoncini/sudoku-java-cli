@@ -52,5 +52,4 @@ Seguindo os princípios de *Clean Code* e responsabilidade única:
    ```
 ## 👤 Autor
 **Maike Simoncini da Silva** *Tecnólogo em ADS | Aspirante a AI Engineer*
-LinkedIn
-GitHub
+
