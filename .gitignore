@@ -1,0 +1,34 @@
+# --- JAVA ---
+# Ignora os arquivos compilados (.class)
+*.class
+
+# Ignora arquivos de log
+*.log
+
+# Ignora pacotes compactados
+*.jar
+*.war
+*.ear
+
+# --- DIRETÓRIOS DE COMPILAÇÃO ---
+# Se você usar o comando 'javac -d bin', esta pasta deve ser ignorada
+bin/
+out/
+target/
+
+# --- IDEs (IntelliJ, VS Code, Eclipse) ---
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+.factorypath
+
+# --- SISTEMA OPERACIONAL ---
+.DS_Store
+Thumbs.db
+
+# --- ARQUIVOS TEMPORÁRIOS ---
+*.tmp
+*.bak
